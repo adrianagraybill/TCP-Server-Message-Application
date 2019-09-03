@@ -21,4 +21,4 @@
 * node app.js ./files/test.txt
 
 #### UML
-![UML: Lab 16](./assets/lab-16-uml.jpeg)
+![UML: Lab 16](./assets/lab-16-uml.jpg)
