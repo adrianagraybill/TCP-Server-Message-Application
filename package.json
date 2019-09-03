@@ -1,0 +1,24 @@
+{
+  "name": "lab-17",
+  "version": "1.0.0",
+  "description": "TCP Server / Message Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianagraybill/lab-17.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianagraybill/lab-17/issues"
+  },
+  "homepage": "https://github.com/adrianagraybill/lab-17#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "util": "^0.12.1"
+  }
+}
