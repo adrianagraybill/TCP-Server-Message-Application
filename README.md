@@ -1,4 +1,4 @@
-# LAB - 17 TCP Server / Message Application
+# TCP Server / Message Application
 
 ### Author: Adriana with help from Jonny
 
